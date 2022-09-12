@@ -113,3 +113,13 @@ a{
 .ecell-li{
     margin-top: .8vh;
 }
+
+@media only screen and (max-width:660px){
+    .title-cont h1{
+        font-size: 1.4rem !important;
+    }
+
+    .det-sm{
+        font-size: 0.45rem;
+    }    
+}
