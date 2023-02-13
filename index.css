@@ -114,6 +114,9 @@ a{
     margin-top: .8vh;
 }
 
+.ikof{
+    margin-top: .8vw;
+}
 @media only screen and (max-width:660px){
     .title-cont h1{
         font-size: 1.4rem !important;
